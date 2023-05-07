@@ -1,0 +1,1515 @@
+﻿Log file open, 10/17/20 16:22:18
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: FPS_Template
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 7.004628
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin OneSkyLocalizationService
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosVehiclesPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin PerformanceMonitor
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14488950
+LogInit: Engine Version: 4.26.0-14488950+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14488950+++UE4+Release-4.26
+LogInit: Net CL: 14488950
+LogInit: OS: Windows 10 (Release 2004) (), CPU: AMD Ryzen 3 3200G with Radeon Vega Graphics    , GPU: AMD 15D8:C9
+LogInit: Compiled (64-bit): Oct 14 2020 06:08:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/UE4/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2020.10.17-05.22.22:957][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.17-05.22.22:957][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.17-05.22.22:960][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Engine.ini]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Engine.ini]
+[2020.10.17-05.22.22:961][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Engine.ini]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Engine.ini]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2020.10.17-05.22.22:961][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Engine.ini]
+[2020.10.17-05.22.22:961][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Engine.ini]
+[2020.10.17-05.22.22:968][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.10.17-05.22.22:968][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.17-05.22.22:968][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.17-05.22.22:968][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.10.17-05.22.22:968][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.17-05.22.22:968][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.17-05.22.22:969][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.17-05.22.22:970][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2020.10.17-05.22.22:984][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.10.17-05.22.22:984][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.17-05.22.22:984][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.17-05.22.22:984][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.10.17-05.22.22:984][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.17-05.22.22:984][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.17-05.22.22:984][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.17-05.22.22:984][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.17-05.22.22:984][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.17-05.22.22:984][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.17-05.22.22:984][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.17-05.22.22:984][  0]LogHAL: Display: Platform has ~ 7 GB [7462211584 / 8589934592 / 7], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.17-05.22.23:002][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.17-05.22.23:002][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.17-05.22.23:002][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.17-05.22.23:003][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.17-05.22.23:004][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.17-05.22.23:004][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.17-05.22.23:004][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.17-05.22.23:004][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.17-05.22.23:004][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.17-05.22.23:004][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.17-05.22.23:004][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.10.17-05.22.23:004][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Config/Windows/Engine.ini]
+[2020.10.17-05.22.23:004][  0]LogInit: Computer: DESKTOP-F4OVFP6
+[2020.10.17-05.22.23:004][  0]LogInit: User: fortn
+[2020.10.17-05.22.23:004][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.10.17-05.22.23:004][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.17-05.22.23:004][  0]LogMemory: Memory total: Physical=6.9GB (7GB approx)
+[2020.10.17-05.22.23:004][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.17-05.22.23:004][  0]LogMemory: Process Physical Memory: 131.79 MB used, 131.79 MB peak
+[2020.10.17-05.22.23:004][  0]LogMemory: Process Virtual Memory: 115.31 MB used, 115.31 MB peak
+[2020.10.17-05.22.23:004][  0]LogMemory: Physical Memory: 2941.11 MB used,  4175.41 MB free, 7116.52 MB total
+[2020.10.17-05.22.23:005][  0]LogMemory: Virtual Memory: 134208656.00 MB used,  9073.99 MB free, 134217728.00 MB total
+[2020.10.17-05.22.23:011][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.17-05.22.23:199][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2020.10.17-05.22.23:240][  0]LogInit: Using OS detected language (en-US).
+[2020.10.17-05.22.23:240][  0]LogInit: Using OS detected locale (en-GB).
+[2020.10.17-05.22.23:331][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.10.17-05.22.24:255][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.17-05.22.24:811][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.17-05.22.24:811][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.17-05.22.25:693][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.17-05.22.25:693][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.10.17-05.22.25:693][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.10.17-05.22.25:694][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.17-05.22.25:794][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) Vega 8 Graphics' (Feature Level 11_0)
+[2020.10.17-05.22.25:794][  0]LogD3D11RHI:       1009/0/3558 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.10.17-05.22.25:798][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.17-05.22.25:798][  0]LogD3D11RHI:       0/0/3558 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.17-05.22.25:798][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.17-05.22.25:804][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.17-05.22.25:804][  0]LogD3D11RHI:     GPU DeviceId: 0x15d8 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.17-05.22.25:804][  0]LogWindows: EnumDisplayDevices:
+[2020.10.17-05.22.25:804][  0]LogWindows:    0. 'AMD 15D8:C9' (P:1 D:1)
+[2020.10.17-05.22.25:804][  0]LogWindows:    1. 'AMD 15D8:C9' (P:0 D:0)
+[2020.10.17-05.22.25:805][  0]LogWindows:    2. 'AMD 15D8:C9' (P:0 D:0)
+[2020.10.17-05.22.25:805][  0]LogWindows:    3. 'AMD 15D8:C9' (P:0 D:0)
+[2020.10.17-05.22.25:805][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.10.17-05.22.25:805][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) Vega 8 Graphics
+[2020.10.17-05.22.25:805][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.10.17-05.22.25:805][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.10.17-05.22.25:805][  0]LogRHI: Texture pool is 2877 MB (70% of 4110 MB)
+[2020.10.17-05.22.25:912][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.10.17-05.22.25:912][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.17-05.22.25:912][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.10.17-05.22.26:189][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2020.10.17-05.22.27:085][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.10.17-05.22.27:123][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.10.17-05.22.27:123][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.10.17-05.22.27:123][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.10.17-05.22.27:123][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.10.17-05.22.27:123][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.10.17-05.22.27:123][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.17-05.22.27:123][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.10.17-05.22.27:123][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.17-05.22.27:123][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.10.17-05.22.27:123][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.10.17-05.22.27:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.10.17-05.22.27:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.10.17-05.22.27:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.10.17-05.22.27:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.17-05.22.27:331][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.10.17-05.22.27:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.10.17-05.22.27:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.10.17-05.22.27:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.10.17-05.22.27:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.10.17-05.22.27:535][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.10.17-05.22.27:535][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.10.17-05.22.27:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2020.10.17-05.22.27:621][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2020.10.17-05.22.27:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2020.10.17-05.22.27:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2020.10.17-05.22.27:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.10.17-05.22.27:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.10.17-05.22.27:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.17-05.22.27:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.10.17-05.22.27:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.10.17-05.22.27:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.10.17-05.22.27:803][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.17-05.22.27:851][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.17-05.22.28:357][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2020.10.17-05.22.28:379][  0]LogShaderCompilers: Guid format shader working directory is -56 characters bigger than the processId version (../../../../../../Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Intermediate/Shaders/WorkingDirectory/11612/).
+[2020.10.17-05.22.28:379][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fortn/AppData/Local/Temp/UnrealShaderWorkingDir/82FB34AE4060570E601B39B5BCBB4E50/'.
+[2020.10.17-05.22.28:397][  0]LogXGEController: Cleaning working directory: C:/Users/fortn/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.10.17-05.22.28:398][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.17-05.22.28:398][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.17-05.22.28:398][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.17-05.22.31:687][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.17-05.22.31:917][  0]LogDerivedDataCache: Loaded boot cache 0.23s 86MB C:/Users/fortn/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.10.17-05.22.31:917][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/fortn/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2020.10.17-05.22.31:917][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.17-05.22.31:917][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.17-05.22.31:917][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.17-05.22.31:917][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.17-05.22.31:953][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.17-05.22.31:953][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.17-05.22.31:953][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.17-05.22.32:053][  0]LogDerivedDataCache: Speed tests for C:/Users/fortn/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.10 seconds
+[2020.10.17-05.22.32:053][  0]LogDerivedDataCache: Display: Performance to C:/Users/fortn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=130.84MBs, RandomWriteSpeed=10.03MBs. Assigned SpeedClass 'Local'
+[2020.10.17-05.22.32:054][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fortn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.17-05.22.32:054][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.17-05.22.32:054][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.17-05.22.32:178][  0]LogSlate: Using FreeType 2.10.0
+[2020.10.17-05.22.32:214][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.17-05.22.32:454][  0]LogAssetRegistry: FAssetRegistry took 0.0090 seconds to start up
+[2020.10.17-05.22.38:321][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.17-05.22.38:321][  0]LogInit: Active device profile: [000002B903239100][000002B900399200 49] Windows
+[2020.10.17-05.22.38:321][  0]LogInit: Profiles: [000002B903239100][000002B900399200 49] Windows, [000002B9031B1D00][000002B9003A1380 49] WindowsNoEditor, [000002B903238300][000002B90039D4C0 49] WindowsServer, [000002B9031B0A00][000002B9003A5600 49] WindowsClient, [000002B903239900][000002B9003A9740 49] IOS, [000002B9031B3100][000002B9003AD880 49] iPadAir, [000002B903238500][000002B9003B5A00 49] iPadAir2, [000002B903173600][000002B9003BDCC0 49] IPadPro, [000002B903173700][000002B9003B9D00 49] iPadAir3, [000002B9031B0400][000002B9003C01C0 49] iPadMini2, [000002B903171400][000002B9003C4340 49] iPadMini4, [000002B9031B2000][000002B9003C84C0 49] iPadMini5, [000002B90319B100][000002B9003D0780 49] iPhone6, [000002B90319B200][000002B9003CC7C0 49] iPodTouch6, [000002B903173500][000002B9003D8A80 49] iPhone7, [000002B903173400][000002B9003D4AC0 49] iPodTouch7, [000002B903199500][000002B9003DCC40 49] iPhone5S, [000002B903171600][000002B9003E0DC0 49] iPhone6Plus, [000002B90319AA00][000002B9003E4F40 49] iPhone6S, [000002B903171000][000002B9003E90C0 49] iPhone6SPlus, [000002B903199900][000002B9003ED240 49] iPhone7Plus, [000002B903170200][000002B9003F13C0 49] iPhoneSE, [000002B90319A600][000002B9003B1500 49] iPhone8, [000002B903170F00][000002B9003F5640 49] iPhone8Plus, [000002B903199C00][000002B9003F9780 49] iPhoneX, [000002B903170400][000002B9003FD8C0 49] iPhoneXS, [000002B90319A300][000002B97F875A40 49] iPhoneXSMax, [000002B903170C00][000002B97F879BC0 49] iPhoneXR, [000002B903199F00][000002B97F87DD40 49] iPhone11, [000002B903170800][000002B97F880200 49] iPhone11Pro, [000002B90319A000][000002B97F884380 49] iPhone11ProMax, [000002B903170900][000002B97F888500 49] iPhoneSE2, [000002B90319A500][000002B97F88C680 49] iPadPro105, [000002B903170D00][000002B97F890800 49] iPadPro129, [000002B903198200][000002B97F894980 49] iPadPro97, [000002B903171500][000002B97F898B00 49] iPadPro2_129, [000002B90319B700][000002B97F89CC80 49] iPad5, [000002B903173000][000002B97F8A0E00 49] iPad6, [000002B903199600][000002B97F8A4F80 49] iPad7, [000002B903172000][000002B97F8A9100 49] iPadPro11, [000002B903199300][000002B97F8AD280 49] iPadPro2_11, [000002B903173100][000002B97F8B1400 49] iPadPro3_129, [000002B90319B300][000002B97F8B5580 49] iPadPro4_129, [000002B903171E00][000002B97F8716C0 49] AppleTV, [000002B903199400][000002B97F8B9800 49] AppleTV4K, [000002B903171300][000002B97F8BD940 49] TVOS, [000002B90319A400][000002B97F8C5AC0 49] Mac, [000002B903172E00][000002B97F8C9C40 49] MacClient, [000002B903198C00][000002B97F8CC100 49] MacNoEditor, [000002B903171C00][000002B97F8D0280 49] MacServer, [000002B90319B600][000002B97F8D4400 49] Linux, [000002B903171800][000002B97F8D8580 49] LinuxNoEditor, [000002B903199D00][000002B97F8DC700 49] LinuxAArch64NoEditor, [000002B903172C00][000002B97F8E0880 49] LinuxClient, [000002B903198400][000002B97F8E4A00 49] LinuxAArch64Client, [000002B903172B00][000002B97F8E8B80 49] LinuxServer, [000002B903239B00][000002B97F8ECD00 49] LinuxAArch64Server, [000002B903171700][000002B97F8F0E80 49] Android, [000002B903238600][000002B97F8F5000 49] Android_Low, [000002B903170500][000002B97F8F9180 49] Android_Mid, [000002B903239D00][000002B97F8FD300 49] Android_High, [000002B903172100][000002B97F901480 49] Android_Default, [000002B903238A00][000002B97F905600 49] Android_Adreno4xx, [000002B903172300][000002B97F8C1740 49] Android_Adreno5xx_Low, [000002B903238200][000002B97F909880 49] Android_Adreno5xx, [000002B903171D00][000002B97F90D9C0 49] Android_Adreno6xx, [000002B903238E00][000002B97F915B40 49] Android_Adreno6xx_Vulkan, [000002B903173800][000002B97F919CC0 49] Android_Mali_T6xx, [000002B903239000][000002B97F91C180 49] Android_Mali_T7xx, [000002B903170E00][000002B97F920300 49] Android_Mali_T8xx, [000002B903239300][000002B97F924480 49] Android_Mali_G71, [000002B903170300][000002B97F928600 49] Android_Mali_G72, [000002B903239700][000002B97F92C780 49] Android_Mali_G72_Vulkan, [000002B903172500][000002B97F930900 49] Android_Mali_G76, [000002B903199000][000002B97F934A80 49] Android_Mali_G76_Vulkan, [000002B903172800][000002B97F938C00 49] Android_Mali_G77, [000002B903198900][000002B97F93CD80 49] Android_Mali_G77_Vulkan, [000002B903198300][000002B97F940F00 49] Android_Vulkan_SM5, [000002B9031B0C00][000002B97F945080 49] Android_PowerVR_G6xxx, [000002B903198800][000002B97F949200 49] Android_PowerVR_GT7xxx, [000002B9031B2200][000002B97F94D380 49] Android_PowerVR_GE8xxx, [000002B903198D00][000002B97F951500 49] Android_PowerVR_GM9xxx, [000002B9031B1200][000002B97F955680 49] Android_PowerVR_GM9xxx_Vulkan, [000002B903198700][000002B97F9117C0 49] Android_TegraK1, [000002B9031B0900][000002B97F959900 49] Android_Unknown_Vulkan, [000002B90319AD00][000002B97F95DA40 49] Lumin, [000002B9031B0D00][000002B97F961B80 49] Lumin_Desktop, [000002B903198600][000002B97F969D00 49] HoloLens, 
+[2020.10.17-05.22.40:346][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.17-05.22.40:346][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.17-05.22.40:346][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.17-05.22.40:346][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.17-05.22.40:391][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.17-05.22.40:773][  0]LogNetVersion: FPS_Template 1.0.0, NetCL: 14488950, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3860723283)
+[2020.10.17-05.22.53:003][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2020.10.17-05.22.53:276][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.241153 seconds
+[2020.10.17-05.22.53:311][  0]LogUObjectArray: 17412 objects as part of root set at end of initial load.
+[2020.10.17-05.22.53:328][  0]LogUObjectAllocator: 4476848 out of 0 bytes used by permanent object pool.
+[2020.10.17-05.22.53:328][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.17-05.22.56:909][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Experimental/ChaosVehiclesPlugin/Resources/ChaosVehicles_16x.png' error.
+[2020.10.17-05.22.56:909][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Experimental/ChaosVehiclesPlugin/Resources/ChaosVehicles_64x.png' error.
+[2020.10.17-05.22.56:909][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Experimental/ChaosVehiclesPlugin/Resources/ChaosVehicles_64x.png
+[2020.10.17-05.22.56:909][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Experimental/ChaosVehiclesPlugin/Resources/ChaosVehicles_16x.png
+[2020.10.17-05.22.57:901][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.17-05.22.57:970][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.17-05.22.58:299][  0]LogSteamShared: Display: Loading Steam SDK 1.47
+[2020.10.17-05.22.58:321][  0]LogSteamShared: Steam SDK Loaded!
+[2020.10.17-05.22.58:872][  0]SourceControl: Source control is disabled
+[2020.10.17-05.22.58:872][  0]SourceControl: Source control is disabled
+[2020.10.17-05.22.59:038][  0]LocalizationService: Localization service is disabled
+[2020.10.17-05.22.59:038][  0]LocalizationService: Localization service is disabled
+[2020.10.17-05.22.59:084][  0]SourceControl: Source control is disabled
+[2020.10.17-05.22.59:110][  0]SourceControl: Source control is disabled
+[2020.10.17-05.22.59:181][  0]SourceControl: Source control is disabled
+[2020.10.17-05.22.59:221][  0]LogUProjectInfo: Found projects:
+[2020.10.17-05.22.59:229][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.10.17-05.22.59:230][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.10.17-05.23.01:032][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.17-05.23.01:146][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.17-05.23.01:146][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.17-05.23.01:623][  0]LogCollectionManager: Loaded 0 collections in 0.002325 seconds
+[2020.10.17-05.23.01:847][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Collections/' took 0.00s
+[2020.10.17-05.23.01:847][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Content/Developers/fortn/Collections/' took 0.00s
+[2020.10.17-05.23.01:847][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Content/Collections/' took 0.00s
+[2020.10.17-05.23.01:847][  0]LogOcInput: OculusInput pre-init called
+[2020.10.17-05.23.01:905][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.10.17-05.23.01:905][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.10.17-05.23.02:843][  0]LogEngine: Initializing Engine...
+[2020.10.17-05.23.02:866][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.17-05.23.02:885][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.10.17-05.23.02:954][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.044 s
+[2020.10.17-05.23.03:378][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.17-05.23.03:496][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.17-05.23.03:497][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2020.10.17-05.23.03:533][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2020.10.17-05.23.03:533][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.17-05.23.03:533][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.17-05.23.03:533][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.17-05.23.03:533][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.17-05.23.03:533][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.17-05.23.03:533][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.17-05.23.03:533][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.17-05.23.03:533][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.17-05.23.03:533][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.17-05.23.03:533][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.17-05.23.03:628][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.17-05.23.03:628][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.17-05.23.03:666][  0]LogAudioMixer: Display: Using Audio Device Headphones (Xbox Controller)
+[2020.10.17-05.23.03:722][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.17-05.23.03:747][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.17-05.23.03:747][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.17-05.23.03:748][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.17-05.23.03:748][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.10.17-05.23.03:748][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2020.10.17-05.23.03:749][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.10.17-05.23.03:749][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.10.17-05.23.03:749][  0]LogInit: FAudioDevice initialized.
+[2020.10.17-05.23.03:750][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2020.10.17-05.23.03:750][  0]LogAudio: Display: Audio Device Manager Initialized
+[2020.10.17-05.23.03:750][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.17-05.23.03:849][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/fortn/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.10.17-05.23.03:854][  0]LogInit: Texture streaming: Enabled
+[2020.10.17-05.23.03:958][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14488950+++UE4+Release-4.26
+[2020.10.17-05.23.04:021][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.17-05.23.04:022][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={CC976FDF-4670-B558-5FF5-3B8B7ECD3DDD}
+[2020.10.17-05.23.04:022][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.17-05.23.04:023][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.17-05.23.04:282][  0]LogInit: Transaction tracking system initialized
+[2020.10.17-05.23.04:688][  0]BlueprintLog: New page: Editor Load
+[2020.10.17-05.23.05:963][  0]TimingProfiler: Initialize
+[2020.10.17-05.23.05:968][  0]TimingProfiler: OnSessionChanged
+[2020.10.17-05.23.05:969][  0]LoadingProfiler: Initialize
+[2020.10.17-05.23.05:969][  0]LoadingProfiler: OnSessionChanged
+[2020.10.17-05.23.05:971][  0]NetworkingProfiler: Initialize
+[2020.10.17-05.23.05:971][  0]NetworkingProfiler: OnSessionChanged
+[2020.10.17-05.23.05:972][  0]MemoryProfiler: Initialize
+[2020.10.17-05.23.05:972][  0]MemoryProfiler: OnSessionChanged
+[2020.10.17-05.23.06:586][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.10.17-05.23.06:587][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.10.17-05.23.07:972][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2020.10.17-05.23.07:972][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.17-05.23.09:265][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Content/' took 0.66s
+[2020.10.17-05.23.11:631][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Experimental/ChaosVehiclesPlugin/Resources/ChaosVehicles_16x.png' error.
+[2020.10.17-05.23.11:631][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Experimental/ChaosVehiclesPlugin/Resources/ChaosVehicles_16x.png
+[2020.10.17-05.23.11:631][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Experimental/ChaosVehiclesPlugin/Resources/ChaosVehicles_64x.png' error.
+[2020.10.17-05.23.11:631][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Experimental/ChaosVehiclesPlugin/Resources/ChaosVehicles_64x.png
+[2020.10.17-05.23.12:061][  0]SourceControl: Source control is disabled
+[2020.10.17-05.23.12:061][  0]LogUnrealEdMisc: Loading editor; pre map load, took 96.002
+[2020.10.17-05.23.12:083][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.17-05.23.12:113][  0]LightingResults: New page: Lighting Build
+[2020.10.17-05.23.12:161][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.23.12:162][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.17-05.23.12:162][  0]MapCheck: New page: Map Check
+[2020.10.17-05.23.12:162][  0]LightingResults: New page: Lighting Build
+[2020.10.17-05.23.12:191][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.10.17-05.23.12:661][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2020.10.17-05.23.12:878][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.10.17-05.23.13:086][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.17-05.23.13:116][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.10.17-05.23.13:120][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.17-05.23.13:121][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.187ms to complete.
+[2020.10.17-05.23.13:121][  0]LogFileHelpers: Loading map 'Template_Default' took 1.038
+[2020.10.17-05.23.14:070][  0]LogUnrealEdMisc: Total Editor Startup Time, took 98.011
+[2020.10.17-05.23.14:450][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.17-05.23.14:460][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.17-05.23.14:467][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.17-05.23.14:476][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.17-05.23.14:628][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0141 seconds. Added 3666 classes and 878 folders.
+[2020.10.17-05.23.14:797][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.17-05.23.14:878][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.10.17-05.23.14:878][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.14:878][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.10.17-05.23.14:878][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2020.10.17-05.23.14:891][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.10.17-05.23.14:892][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.14:892][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.10.17-05.23.14:892][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2020.10.17-05.23.14:969][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2020.10.17-05.23.14:969][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.14:969][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2020.10.17-05.23.14:969][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2020.10.17-05.23.14:978][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.10.17-05.23.14:978][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.14:979][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.10.17-05.23.14:979][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2020.10.17-05.23.14:987][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.10.17-05.23.14:987][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.14:987][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.10.17-05.23.14:987][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2020.10.17-05.23.14:995][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.10.17-05.23.14:995][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.14:995][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.10.17-05.23.14:995][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2020.10.17-05.23.15:000][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2020.10.17-05.23.15:000][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.15:000][  0]LogPakFile: PakFile FullDirectoryIndexSize=156
+[2020.10.17-05.23.15:000][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2020.10.17-05.23.15:013][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.10.17-05.23.15:013][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.15:013][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.10.17-05.23.15:013][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2020.10.17-05.23.15:028][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.10.17-05.23.15:028][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.15:028][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.10.17-05.23.15:028][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2020.10.17-05.23.15:036][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.10.17-05.23.15:036][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.15:036][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.10.17-05.23.15:036][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2020.10.17-05.23.15:046][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.10.17-05.23.15:046][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.15:046][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.10.17-05.23.15:046][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2020.10.17-05.23.15:055][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.10.17-05.23.15:055][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.15:055][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.10.17-05.23.15:055][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2020.10.17-05.23.15:067][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.10.17-05.23.15:067][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.15:067][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.10.17-05.23.15:067][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2020.10.17-05.23.15:078][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.10.17-05.23.15:078][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.15:078][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.10.17-05.23.15:078][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2020.10.17-05.23.15:088][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.10.17-05.23.15:088][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.15:088][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.10.17-05.23.15:088][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2020.10.17-05.23.15:093][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.10.17-05.23.15:093][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.15:093][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.10.17-05.23.15:093][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2020.10.17-05.23.15:108][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.10.17-05.23.15:108][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.15:108][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.10.17-05.23.15:108][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2020.10.17-05.23.15:121][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.10.17-05.23.15:121][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.15:121][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.10.17-05.23.15:121][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2020.10.17-05.23.15:133][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.10.17-05.23.15:133][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.15:133][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.10.17-05.23.15:133][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2020.10.17-05.23.15:141][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.10.17-05.23.15:141][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.15:141][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.10.17-05.23.15:141][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2020.10.17-05.23.15:148][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.10.17-05.23.15:148][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.15:148][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.10.17-05.23.15:148][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2020.10.17-05.23.15:220][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.10.17-05.23.15:220][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.15:220][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.10.17-05.23.15:220][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2020.10.17-05.23.15:240][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.10.17-05.23.15:240][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.15:240][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.10.17-05.23.15:240][  0]LogPakFile: OnPakFileMounted2Time == 0.000112
+[2020.10.17-05.23.15:252][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2020.10.17-05.23.15:252][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.15:252][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2020.10.17-05.23.15:252][  0]LogPakFile: OnPakFileMounted2Time == 0.000116
+[2020.10.17-05.23.15:260][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.10.17-05.23.15:260][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.15:260][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.10.17-05.23.15:260][  0]LogPakFile: OnPakFileMounted2Time == 0.000121
+[2020.10.17-05.23.15:271][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.10.17-05.23.15:271][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.15:271][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.10.17-05.23.15:271][  0]LogPakFile: OnPakFileMounted2Time == 0.000125
+[2020.10.17-05.23.15:286][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.10.17-05.23.15:286][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.10.17-05.23.15:286][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.10.17-05.23.15:286][  0]LogPakFile: OnPakFileMounted2Time == 0.000131
+[2020.10.17-05.23.16:407][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.17-05.23.16:408][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.10.17-05.23.16:640][  0]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.17-05.23.16:644][  0]LogSlate: Took 0.000446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.17-05.23.16:663][  0]LogSlate: Took 0.014040 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.17-05.23.16:911][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.10.17-05.23.17:319][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.17-05.23.17:319][  0]LogLoad: (Engine Initialization) Total time: 101.26 seconds
+[2020.10.17-05.23.17:319][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.17-05.23.17:319][  0]LogInit: First time updating LLM stats...
+[2020.10.17-05.23.17:503][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.17-05.23.17:706][  2]LogAssetRegistry: Asset discovery search completed in 45.2528 seconds
+[2020.10.17-05.23.17:708][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.10.17-05.23.17:786][  2]LogSlate: Took 0.052809 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.17-05.23.18:710][  5]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.17-05.23.24:859][ 24]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2020.10.17-05.25.02:985][464]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FPS/Levels/AddingMaps_Tutorial.AddingMaps_Tutorial
+[2020.10.17-05.25.03:333][464]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 126 classes and 0 folders.
+[2020.10.17-05.25.04:620][464]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/FPS/Levels/MapEnum.MapEnum
+[2020.10.17-05.25.12:155][464]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\FPSMultidc66e4e0d7c5V2\data 4.25\UNREAL-GAME\FPS GAME 4.26 - 2 4.26\Content\FPS\WidgetBP\WB_CharacterSelection.uasset: [Compiler] On Clicked (Perk_04_Button)  does not have a valid matching component!
+[2020.10.17-05.25.12:155][464]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\FPSMultidc66e4e0d7c5V2\data 4.25\UNREAL-GAME\FPS GAME 4.26 - 2 4.26\Content\FPS\WidgetBP\WB_CharacterSelection.uasset: [Compiler] On Clicked (Perk_03_Button)  does not have a valid matching component!
+[2020.10.17-05.25.12:155][464]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\FPSMultidc66e4e0d7c5V2\data 4.25\UNREAL-GAME\FPS GAME 4.26 - 2 4.26\Content\FPS\WidgetBP\WB_CharacterSelection.uasset: [Compiler] On Clicked (Perk_02_Button)  does not have a valid matching component!
+[2020.10.17-05.25.12:156][464]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\FPSMultidc66e4e0d7c5V2\data 4.25\UNREAL-GAME\FPS GAME 4.26 - 2 4.26\Content\FPS\WidgetBP\WB_CharacterSelection.uasset: [Compiler] On Clicked (Perk_01_Button)  does not have a valid matching component!
+[2020.10.17-05.25.12:552][464]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\FPSMultidc66e4e0d7c5V2\data 4.25\UNREAL-GAME\FPS GAME 4.26 - 2 4.26\Content\FPS\WidgetBP\Menus\WB_SettingsMenu.uasset: [Compiler] On Check State Changed (ShowFpsCB)  does not have a valid matching component!
+[2020.10.17-05.25.17:015][464]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FPS/Blueprints/PlayerController/BaseCharacterPC.BaseCharacterPC
+[2020.10.17-05.25.17:498][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Content/VolumeTextures/MaterialFunctions/VolumeTextureFunction' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.17:511][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\WaveFoam\DrawWaveCrests.uasset: Failed to load '/Volumetrics/Content/VolumeTextures/MaterialFunctions/VolumeTextureFunction': Can't find file.
+[2020.10.17-05.25.17:511][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Content/VolumeTextures/MaterialFunctions/VolumeTextureFunction' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.17:511][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Content/VolumeTextures/MaterialFunctions/VolumeTextureFunction' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.17:511][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\WaveFoam\DrawWaveCrests.uasset: Failed to load '/Volumetrics/Content/VolumeTextures/MaterialFunctions/VolumeTextureFunction': Can't find file.
+[2020.10.17-05.25.17:527][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Content/VolumeTextures/MaterialFunctions/VolumeTextureFunction' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.17:527][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\WaveFoam\DrawWaveCrests.uasset: Failed to load '/Volumetrics/Content/VolumeTextures/MaterialFunctions/VolumeTextureFunction': Can't find file.
+[2020.10.17-05.25.17:611][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.17:611][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Blueprints\BP_FluidSim_01.uasset: Failed to load '/Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary': Can't find file.
+[2020.10.17-05.25.17:611][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.17:611][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.17:611][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Blueprints\BP_FluidSim_01.uasset: Failed to load '/Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary': Can't find file.
+[2020.10.17-05.25.17:709][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2020.10.17-05.25.17:709][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2020.10.17-05.25.17:709][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2020.10.17-05.25.17:714][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Tools/FluidSimulation/MaterialFunctions/PointSampledUVs' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.17:714][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Utility\ComputeVoronoiDistance.uasset: Failed to load '/Volumetrics/Tools/FluidSimulation/MaterialFunctions/PointSampledUVs': Can't find file.
+[2020.10.17-05.25.17:715][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Tools/FluidSimulation/MaterialFunctions/PointSampledUVs' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.17:715][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Tools/FluidSimulation/MaterialFunctions/PointSampledUVs' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.17:715][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Utility\ComputeVoronoiDistance.uasset: Failed to load '/Volumetrics/Tools/FluidSimulation/MaterialFunctions/PointSampledUVs': Can't find file.
+[2020.10.17-05.25.17:717][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Tools/FluidSimulation/MaterialFunctions/PointSampledUVs' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.17:717][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Utility\ComputeVoronoiDistance.uasset: Failed to load '/Volumetrics/Tools/FluidSimulation/MaterialFunctions/PointSampledUVs': Can't find file.
+[2020.10.17-05.25.17:734][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.17:734][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Blueprints\BP_FluidSim_01.uasset: Failed to load '/Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary': Can't find file.
+[2020.10.17-05.25.18:063][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.18:063][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Blueprints\BP_FluidSim_01.uasset: Failed to load '/Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary': Can't find file.
+[2020.10.17-05.25.18:225][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.18:225][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Blueprints\BP_FluidSim_01.uasset: Failed to load '/Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary': Can't find file.
+[2020.10.17-05.25.18:226][464]LoadErrors: Failed to load /Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary.VolumetricsBPLIbrary_C Referenced by K2Node_CallFunction_2
+[2020.10.17-05.25.18:226][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.18:226][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Blueprints\BP_FluidSim_01.uasset: Failed to load '/Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary': Can't find file.
+[2020.10.17-05.25.18:226][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.18:227][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Blueprints\BP_FluidSim_01.uasset: Failed to load '/Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary': Can't find file.
+[2020.10.17-05.25.18:227][464]LoadErrors: Failed to load /Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary.Default__VolumetricsBPLIbrary_C Referenced by K2Node_CallFunction_2
+[2020.10.17-05.25.18:518][464]LogBlueprint: Error: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Blueprints\BP_FluidSim_01.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Get First Actor Of Class . Please refresh node or break links to remove pin.
+[2020.10.17-05.25.18:519][464]LogBlueprint: Error: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Blueprints\BP_FluidSim_01.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Get First Actor Of Class . Please refresh node or break links to remove pin.
+[2020.10.17-05.25.18:519][464]LogBlueprint: Error: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Blueprints\BP_FluidSim_01.uasset: [Compiler] In use pin  World Content  no longer exists on node  Get First Actor Of Class . Please refresh node or break links to remove pin.
+[2020.10.17-05.25.18:519][464]LogBlueprint: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Blueprints\BP_FluidSim_01.uasset: [Compiler] Input pin  Class  specifying non-default value no longer exists on node  Get First Actor Of Class . Please refresh node or reset pin to default value to remove pin.
+[2020.10.17-05.25.18:519][464]LogBlueprint: Error: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Blueprints\BP_FluidSim_01.uasset: [Compiler] In use pin  Actor  no longer exists on node  Get First Actor Of Class . Please refresh node or break links to remove pin.
+[2020.10.17-05.25.18:519][464]LogBlueprint: Error: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Blueprints\BP_FluidSim_01.uasset: [Compiler] Could not find a function named "GetFirstActorOfClass" in 'BP_FluidSim_01'.
+Make sure 'BP_FluidSim_01' has been compiled for  Get First Actor Of Class
+[2020.10.17-05.25.18:835][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.18:835][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Blueprints\BP_FluidSim_01.uasset: Failed to load '/Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary': Can't find file.
+[2020.10.17-05.25.18:837][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.18:837][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Blueprints\BP_FluidSim_01.uasset: Failed to load '/Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary': Can't find file.
+[2020.10.17-05.25.18:838][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.18:838][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Blueprints\BP_FluidSim_01.uasset: Failed to load '/Volumetrics/Tools/BlueprintLibraries/VolumetricsBPLIbrary': Can't find file.
+[2020.10.17-05.25.18:846][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Content/VolumeTextures/MaterialFunctions/VolumeTextureFunction' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.18:846][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\WaveFoam\DrawWaveCrests.uasset: Failed to load '/Volumetrics/Content/VolumeTextures/MaterialFunctions/VolumeTextureFunction': Can't find file.
+[2020.10.17-05.25.18:846][464]LoadErrors: Failed to load /Volumetrics/Content/VolumeTextures/MaterialFunctions/VolumeTextureFunction.VolumeTextureFunction Referenced by DrawWaveCrests
+[2020.10.17-05.25.18:847][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Content/VolumeTextures/MaterialFunctions/VolumeTextureFunction' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.18:847][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\WaveFoam\DrawWaveCrests.uasset: Failed to load '/Volumetrics/Content/VolumeTextures/MaterialFunctions/VolumeTextureFunction': Can't find file.
+[2020.10.17-05.25.18:847][464]LoadErrors: Failed to load /Volumetrics/Content/VolumeTextures/MaterialFunctions/VolumeTextureFunction.VolumeTextureFunction Referenced by MaterialExpressionMaterialFunctionCall_4
+[2020.10.17-05.25.18:942][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Tools/FluidSimulation/MaterialFunctions/PointSampledUVs' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.18:942][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Utility\ComputeVoronoiDistance.uasset: Failed to load '/Volumetrics/Tools/FluidSimulation/MaterialFunctions/PointSampledUVs': Can't find file.
+[2020.10.17-05.25.18:942][464]LoadErrors: Failed to load /Volumetrics/Tools/FluidSimulation/MaterialFunctions/PointSampledUVs.PointSampledUVs Referenced by ComputeVoronoiDistance
+[2020.10.17-05.25.18:942][464]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Tools/FluidSimulation/MaterialFunctions/PointSampledUVs' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.25.18:942][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Utility\ComputeVoronoiDistance.uasset: Failed to load '/Volumetrics/Tools/FluidSimulation/MaterialFunctions/PointSampledUVs': Can't find file.
+[2020.10.17-05.25.18:942][464]LoadErrors: Failed to load /Volumetrics/Tools/FluidSimulation/MaterialFunctions/PointSampledUVs.PointSampledUVs Referenced by MaterialExpressionMaterialFunctionCall_10
+[2020.10.17-05.25.18:944][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2020.10.17-05.25.18:944][464]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by M_Fluid_Sim_01
+[2020.10.17-05.25.18:948][464]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2020.10.17-05.25.18:948][464]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by MaterialExpressionTextureSample_1
+[2020.10.17-05.25.19:093][464]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2020.10.17-05.25.19:104][464]LogMaterial: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.17-05.25.19:104][464]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.10.17-05.25.19:125][464]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2020.10.17-05.25.19:127][464]LogMaterial: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01_NoTerrain.uasset: Failed to compile Material Instance with Base M_Fluid_Sim_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.17-05.25.19:127][464]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.10.17-05.25.19:144][464]LogMaterial: Display: Missing cached shader map for material ComputeVoronoiDistance, compiling. 
+[2020.10.17-05.25.19:145][464]LogMaterial: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Utility\ComputeVoronoiDistance.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.17-05.25.19:146][464]LogMaterial: Display: 	Missing Material Function
+[2020.10.17-05.25.19:146][464]LogMaterial: Display: 	Function SafeNormalize: (Node If) If input A must be of type float.
+[2020.10.17-05.25.19:214][464]LogBlueprintEditor: Perf: 2.2 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2020.10.17-05.25.19:214][464]LogBlueprintEditor: Perf: 2.0 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2020.10.17-05.25.20:338][464]LogSlate: Took 0.024716 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.17-05.25.20:573][465]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.17-05.26.51:406][867]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2020.10.17-05.26.59:663][187]BlueprintLog: New page: Compile BaseCharacterPC
+[2020.10.17-05.27.00:187][187]LogUObjectHash: Compacting FUObjectHashTables data took   7.42ms
+[2020.10.17-05.27.02:971][285]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.27.02:971][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.17-05.27.07:676][515]LogSlate: Window 'MapEnum' being destroyed
+[2020.10.17-05.27.08:902][660]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.27.08:902][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.17-05.27.16:071][920]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.10.17-05.27.17:645][920]LogSlate: Window 'Save Content' being destroyed
+[2020.10.17-05.27.17:949][920]LogSavePackage: Moving '../../../../../../Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/BaseCharacterPC130A78AF45E968342F82A0AFB4AADD0C.tmp' to '../../../../../../Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Content/FPS/Blueprints/PlayerController/BaseCharacterPC.uasset'
+[2020.10.17-05.27.18:116][920]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/FortWater/Materials/Functions/CustomDepthSort' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.27.18:116][920]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Debug\M_ForceDisplay_01.uasset: Failed to load '/FortWater/Materials/Functions/CustomDepthSort': Can't find file.
+[2020.10.17-05.27.18:117][920]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/FortWater/Materials/Functions/CustomDepthSort' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.27.18:117][920]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/FortWater/Materials/Functions/CustomDepthSort' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.27.18:117][920]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Debug\M_ForceDisplay_01.uasset: Failed to load '/FortWater/Materials/Functions/CustomDepthSort': Can't find file.
+[2020.10.17-05.27.18:117][920]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/FortWater/Materials/Functions/CustomDepthSort' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.27.18:117][920]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Debug\M_ForceDisplay_01.uasset: Failed to load '/FortWater/Materials/Functions/CustomDepthSort': Can't find file.
+[2020.10.17-05.27.18:397][920]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Content/VolumeTextures/Textures/VT_Voronoi' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.27.18:397][920]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\Materials\WaterSurface\Water_Material_Lake.uasset: Failed to load '/Volumetrics/Content/VolumeTextures/Textures/VT_Voronoi': Can't find file.
+[2020.10.17-05.27.18:398][920]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Content/VolumeTextures/Textures/VT_Voronoi' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.27.18:398][920]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Content/VolumeTextures/Textures/VT_Voronoi' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.27.18:398][920]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\Materials\WaterSurface\Water_Material_Lake.uasset: Failed to load '/Volumetrics/Content/VolumeTextures/Textures/VT_Voronoi': Can't find file.
+[2020.10.17-05.27.18:400][920]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Content/VolumeTextures/Textures/VT_Voronoi' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.27.18:400][920]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\Materials\WaterSurface\Water_Material_Lake.uasset: Failed to load '/Volumetrics/Content/VolumeTextures/Textures/VT_Voronoi': Can't find file.
+[2020.10.17-05.27.18:418][920]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/FortWater/Materials/Functions/CustomDepthSort' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.27.18:418][920]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Debug\M_ForceDisplay_01.uasset: Failed to load '/FortWater/Materials/Functions/CustomDepthSort': Can't find file.
+[2020.10.17-05.27.18:418][920]LoadErrors: Failed to load /FortWater/Materials/Functions/CustomDepthSort.CustomDepthSort Referenced by M_ForceDisplay_01
+[2020.10.17-05.27.18:419][920]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/FortWater/Materials/Functions/CustomDepthSort' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.27.18:419][920]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Debug\M_ForceDisplay_01.uasset: Failed to load '/FortWater/Materials/Functions/CustomDepthSort': Can't find file.
+[2020.10.17-05.27.18:419][920]LoadErrors: Failed to load /FortWater/Materials/Functions/CustomDepthSort.CustomDepthSort Referenced by MaterialExpressionMaterialFunctionCall_10
+[2020.10.17-05.27.18:459][920]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Volumetrics/Content/VolumeTextures/Textures/VT_Voronoi' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/GeometryMode/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosVehiclesPlugin/', '/GeometryCollectionPlugin/', '/GeometryProcessing/', '/Landmass/', '/Water/', '/Niagara/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/PostSplashScreen/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2020.10.17-05.27.18:459][920]LogLinker: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\Materials\WaterSurface\Water_Material_Lake.uasset: Failed to load '/Volumetrics/Content/VolumeTextures/Textures/VT_Voronoi': Can't find file.
+[2020.10.17-05.27.18:459][920]LoadErrors: Failed to load /Volumetrics/Content/VolumeTextures/Textures/VT_Voronoi.VT_Voronoi Referenced by Water_Material_Lake
+[2020.10.17-05.27.18:485][920]LogMaterial: Display: Missing cached shader map for material M_ForceDisplay_01, compiling. 
+[2020.10.17-05.27.18:486][920]LogMaterial: Warning: [AssetLog] D:\Games\UE4\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Debug\M_ForceDisplay_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.17-05.27.18:486][920]LogMaterial: Display: 	Missing Material Function
+[2020.10.17-05.27.18:559][920]LogAssetEditorSubsystem: Opening Asset editor for World /Water/Maps/test.test
+[2020.10.17-05.27.18:560][920]Cmd: MAP LOAD FILE="../../Plugins/Experimental/Water/Content/Maps/test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.17-05.27.18:560][920]LightingResults: New page: Lighting Build
+[2020.10.17-05.27.18:560][920]LoadErrors: New page: Loading map: test.umap
+[2020.10.17-05.27.18:560][920]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.27.18:560][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.17-05.27.18:560][920]MapCheck: New page: Map Check
+[2020.10.17-05.27.18:560][920]LightingResults: New page: Lighting Build
+[2020.10.17-05.27.18:619][920]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.10.17-05.27.18:645][920]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2020.10.17-05.27.18:646][920]LogAudio: Display: Audio Device (ID: 1) registered with world 'test'.
+[2020.10.17-05.27.19:201][920]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.17-05.27.19:201][920]LogAIModule: Creating AISystem for world test
+[2020.10.17-05.27.19:240][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.10.17-05.27.19:260][920]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.17-05.27.19:260][920]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2020.10.17-05.27.19:260][920]LogFileHelpers: Loading map 'test' took 0.701
+[2020.10.17-05.27.19:315][920]AssetCheck: New page: Asset Save: BaseCharacterPC
+[2020.10.17-05.27.19:315][920]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/PlayerController/BaseCharacterPC.BaseCharacterPC
+[2020.10.17-05.27.21:776][  0]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.17-05.27.21:792][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.17-05.27.21:792][  0]BlueprintLog: Warning: Blueprint failed to compile:  BP_FluidSim_01
+[2020.10.17-05.27.21:816][  0]LogCustomDialog: Dialog displayed:
+[2020.10.17-05.27.23:440][  0]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2020.10.17-05.27.23:466][  0]PIE: New page: PIE session: test (18 Oct 2020, 03:27:23)
+[2020.10.17-05.27.23:468][  0]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.10.17-05.27.23:470][  0]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.10.17-05.27.23:470][  0]LogPlayLevel: Creating play world package: /Water/Maps/UEDPIE_0_test
+[2020.10.17-05.27.23:513][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042646s)
+[2020.10.17-05.27.23:597][  0]LogAIModule: Creating AISystem for world test
+[2020.10.17-05.27.23:598][  0]LogPlayLevel: PIE: World Init took: (0.084487s)
+[2020.10.17-05.27.23:598][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Water/Maps/test.test to /Water/Maps/UEDPIE_0_test.test (0.127416s)
+[2020.10.17-05.27.23:642][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.10.17-05.27.23:644][  0]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2020.10.17-05.27.23:644][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.17-05.27.23:644][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.17-05.27.23:644][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.17-05.27.23:644][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.17-05.27.23:644][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.17-05.27.23:644][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.17-05.27.23:644][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.17-05.27.23:644][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.17-05.27.23:645][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.17-05.27.23:645][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.17-05.27.23:650][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.17-05.27.23:650][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.17-05.27.23:672][  0]LogAudioMixer: Display: Using Audio Device Headphones (Xbox Controller)
+[2020.10.17-05.27.23:672][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.17-05.27.23:672][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.17-05.27.23:672][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.17-05.27.23:673][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.17-05.27.23:673][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.10.17-05.27.23:673][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2020.10.17-05.27.23:695][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.10.17-05.27.23:695][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.10.17-05.27.23:695][  0]LogInit: FAudioDevice initialized.
+[2020.10.17-05.27.23:695][  0]LogAudio: Display: Audio Device (ID: 2) registered with world 'test'.
+[2020.10.17-05.27.23:704][  0]LogLoad: Game class is 'FPS_TDM_GM_C'
+[2020.10.17-05.27.23:706][  0]LogWorld: Bringing World /Water/Maps/UEDPIE_0_test.test up for play (max tick rate 0) at 2020.10.17-16.27.23
+[2020.10.17-05.27.23:708][  0]LogWorld: Bringing up level for play took: 0.003698
+[2020.10.17-05.27.23:708][  0]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.10.17-05.27.23:772][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.10.17-05.27.23:775][  0]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2020.10.17-05.27.23:775][  0]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2020.10.17-05.27.23:775][  0]LogScript: Warning: Script Msg: Turn Based Matches not supported by Online Subsystem
+[2020.10.17-05.27.23:775][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.17-05.27.23:776][  0]LogScript: Warning: Script Msg: Turn Based Matches not supported by Online Subsystem
+[2020.10.17-05.27.23:777][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.17-05.27.23:777][  0]PIE: Server logged in
+[2020.10.17-05.27.23:778][  0]PIE: Play in editor total start time 1.986 seconds.
+[2020.10.17-05.27.28:720][160]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFPS_Game_Instance_4
+	BaseCharacterPC_C /Water/Maps/UEDPIE_0_test.test:PersistentLevel.BaseCharacterPC_C_0
+	Function /Game/FPS/Blueprints/PlayerController/BaseCharacterPC.BaseCharacterPC_C:ExecuteUbergraph_BaseCharacterPC:113A
+[2020.10.17-05.27.28:720][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFPS_Game_Instance_4". Blueprint:  BaseCharacterPC Function:  Execute Ubergraph Base Character PC Graph:  IsSettingsMenuOpen Node:  Get
+[2020.10.17-05.27.28:720][160]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFPS_Game_Instance_4
+	BaseCharacterPC_C /Water/Maps/UEDPIE_0_test.test:PersistentLevel.BaseCharacterPC_C_0
+	Function /Game/FPS/Blueprints/PlayerController/BaseCharacterPC.BaseCharacterPC_C:ExecuteUbergraph_BaseCharacterPC:127E
+[2020.10.17-05.27.28:720][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFPS_Game_Instance_4". Blueprint:  BaseCharacterPC Function:  Execute Ubergraph Base Character PC Graph:  IsSettingsMenuOpen Node:  Get
+[2020.10.17-05.27.28:721][160]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2020.10.17-05.27.28:721][160]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2020.10.17-05.27.28:746][161]LogGameMode: GameMode returned ReadyToStartMatch
+[2020.10.17-05.27.28:746][161]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.17-05.27.28:746][161]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.17-05.29.47:804][422]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2020.10.17-05.29.47:805][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.17-05.29.47:805][422]LogWorld: BeginTearingDown for /Water/Maps/UEDPIE_0_test
+[2020.10.17-05.29.47:806][422]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.29.47:807][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.17-05.29.47:838][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.17-05.29.47:845][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.17-05.29.47:869][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.17-05.29.47:870][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.10.17-05.29.47:871][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.10.17-05.29.47:897][422]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2020.10.17-05.29.48:062][422]LogSlate: Took 0.022057 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.17-05.29.48:095][423]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.10.17-05.29.49:413][456]LogSlate: Window 'Message Log' being destroyed
+[2020.10.17-05.29.49:450][456]LogSlate: Window 'Message Log' being destroyed
+[2020.10.17-05.29.50:115][473]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.17-05.29.50:135][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.17-05.29.50:135][473]PIE: New page: PIE session: test (18 Oct 2020, 03:29:50)
+[2020.10.17-05.29.50:135][473]LogPlayLevel: Creating play world package: /Water/Maps/UEDPIE_0_test
+[2020.10.17-05.29.50:160][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024997s)
+[2020.10.17-05.29.50:161][473]LogAIModule: Creating AISystem for world test
+[2020.10.17-05.29.50:162][473]LogPlayLevel: PIE: World Init took: (0.001505s)
+[2020.10.17-05.29.50:162][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Water/Maps/test.test to /Water/Maps/UEDPIE_0_test.test (0.026865s)
+[2020.10.17-05.29.50:190][473]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.10.17-05.29.50:191][473]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2020.10.17-05.29.50:191][473]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.17-05.29.50:191][473]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.17-05.29.50:191][473]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.17-05.29.50:191][473]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.17-05.29.50:191][473]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.17-05.29.50:192][473]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.17-05.29.50:192][473]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.17-05.29.50:192][473]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.17-05.29.50:192][473]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.17-05.29.50:192][473]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.17-05.29.50:195][473]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.17-05.29.50:196][473]LogAudioMixer: Display: 1: FrontRight
+[2020.10.17-05.29.50:212][473]LogAudioMixer: Display: Using Audio Device Headphones (Xbox Controller)
+[2020.10.17-05.29.50:212][473]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.17-05.29.50:212][473]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.17-05.29.50:212][473]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.17-05.29.50:212][473]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.17-05.29.50:213][473]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.10.17-05.29.50:213][473]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2020.10.17-05.29.50:231][473]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.10.17-05.29.50:231][473]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.10.17-05.29.50:231][473]LogInit: FAudioDevice initialized.
+[2020.10.17-05.29.50:231][473]LogAudio: Display: Audio Device (ID: 3) registered with world 'test'.
+[2020.10.17-05.29.50:239][473]LogLoad: Game class is 'FPS_TDM_GM_C'
+[2020.10.17-05.29.50:241][473]LogWorld: Bringing World /Water/Maps/UEDPIE_0_test.test up for play (max tick rate 0) at 2020.10.17-16.29.50
+[2020.10.17-05.29.50:242][473]LogWorld: Bringing up level for play took: 0.003026
+[2020.10.17-05.29.50:242][473]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.10.17-05.29.50:246][473]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2020.10.17-05.29.50:246][473]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2020.10.17-05.29.50:246][473]LogScript: Warning: Script Msg: Turn Based Matches not supported by Online Subsystem
+[2020.10.17-05.29.50:246][473]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.17-05.29.50:247][473]LogScript: Warning: Script Msg: Turn Based Matches not supported by Online Subsystem
+[2020.10.17-05.29.50:247][473]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.17-05.29.50:248][473]PIE: Server logged in
+[2020.10.17-05.29.50:248][473]PIE: Play in editor total start time 0.115 seconds.
+[2020.10.17-05.29.53:584][586]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2020.10.17-05.29.53:586][586]LogGameMode: Display: Match State Changed from WaitingToStart to LeavingMap
+[2020.10.17-05.29.53:586][586]LogGameState: Match State Changed from WaitingToStart to LeavingMap
+[2020.10.17-05.29.53:586][586]LogNet: Browse: /Game/FPS/Levels/MainMenu
+[2020.10.17-05.29.53:586][586]LogLoad: LoadMap: /Game/FPS/Levels/MainMenu
+[2020.10.17-05.29.53:586][586]LogWorld: BeginTearingDown for /Water/Maps/UEDPIE_0_test
+[2020.10.17-05.29.53:587][586]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2020.10.17-05.29.53:588][586]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.29.53:588][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.17-05.29.53:656][586]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.10.17-05.29.53:662][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.10.17-05.29.54:055][586]LogMaterial: Display: Missing cached shader map for material M_MS_shoes_green, compiling. 
+[2020.10.17-05.29.54:120][586]LogMaterial: Display: Missing cached shader map for material M_MS_vest_camo, compiling. 
+[2020.10.17-05.29.54:140][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.10.17-05.29.54:140][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.10.17-05.29.54:140][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.10.17-05.29.54:140][586]LogMaterial: Display: Missing cached shader map for material M_MS_pants_pants_green, compiling. 
+[2020.10.17-05.29.54:164][586]LogMaterial: Display: Missing cached shader map for material M_Road, compiling. 
+[2020.10.17-05.29.54:489][586]LogMaterial: Display: Missing cached shader map for material M_Terrain_ShaderNoTess, compiling. 
+[2020.10.17-05.29.54:509][586]LogMaterial: Display: Missing cached shader map for material M_Terrain_ShaderNoTess, compiling. 
+[2020.10.17-05.29.54:561][586]LogMaterial: Display: Missing cached shader map for material M_Terrain_ShaderNoTess, compiling. 
+[2020.10.17-05.29.54:609][586]LogMaterial: Display: Missing cached shader map for material M_Terrain_ShaderNoTess, compiling. 
+[2020.10.17-05.29.54:647][586]LogMaterial: Display: Missing cached shader map for material M_Terrain_ShaderNoTess, compiling. 
+[2020.10.17-05.29.54:684][586]LogMaterial: Display: Missing cached shader map for material M_Terrain_ShaderNoTess, compiling. 
+[2020.10.17-05.29.54:719][586]LogMaterial: Display: Missing cached shader map for material M_Terrain_ShaderNoTess, compiling. 
+[2020.10.17-05.29.54:755][586]LogMaterial: Display: Missing cached shader map for material M_Terrain_ShaderNoTess, compiling. 
+[2020.10.17-05.29.54:829][586]LogMaterial: Display: Missing cached shader map for material M_MS_helmet_camo, compiling. 
+[2020.10.17-05.29.54:849][586]LogMaterial: Display: Missing cached shader map for material M_MS_jacket_green, compiling. 
+[2020.10.17-05.29.54:866][586]LogMaterial: Display: Missing cached shader map for material M_MS_gloves_green, compiling. 
+[2020.10.17-05.29.54:923][586]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2020.10.17-05.29.54:932][586]LogAIModule: Creating AISystem for world MainMenu
+[2020.10.17-05.29.54:932][586]LogLoad: Game class is 'GameModeBase'
+[2020.10.17-05.29.54:951][586]LogWorld: Bringing World /Game/FPS/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.10.17-16.29.54
+[2020.10.17-05.29.54:952][586]LogWorld: Bringing up level for play took: 0.019744
+[2020.10.17-05.29.54:953][586]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.10.17-05.29.54:954][586]LogLoad: Took 1.368146 seconds to LoadMap(/Game/FPS/Levels/MainMenu)
+[2020.10.17-05.29.55:203][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.17-05.29.55:203][589]LogWorld: BeginTearingDown for /Game/FPS/Levels/UEDPIE_0_MainMenu
+[2020.10.17-05.29.55:203][589]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.29.55:204][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.17-05.29.55:222][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.17-05.29.55:230][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.17-05.29.55:273][589]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.10.17-05.29.55:274][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.10.17-05.29.55:275][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.10.17-05.29.55:304][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.17-05.29.55:313][589]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.10.17-05.29.55:348][590]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.10.17-05.30.01:489][706]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 569
+[2020.10.17-05.30.02:241][722]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 559
+[2020.10.17-05.30.03:233][744]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 549
+[2020.10.17-05.30.08:462][858]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 539
+[2020.10.17-05.30.10:821][907]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 529
+[2020.10.17-05.30.10:962][911]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 519
+[2020.10.17-05.30.16:570][ 24]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 509
+[2020.10.17-05.30.23:058][153]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.17-05.30.23:076][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.17-05.30.23:077][153]PIE: New page: PIE session: test (18 Oct 2020, 03:30:23)
+[2020.10.17-05.30.23:077][153]LogPlayLevel: Creating play world package: /Water/Maps/UEDPIE_0_test
+[2020.10.17-05.30.23:102][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024851s)
+[2020.10.17-05.30.23:103][153]LogAIModule: Creating AISystem for world test
+[2020.10.17-05.30.23:103][153]LogPlayLevel: PIE: World Init took: (0.001660s)
+[2020.10.17-05.30.23:104][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Water/Maps/test.test to /Water/Maps/UEDPIE_0_test.test (0.026680s)
+[2020.10.17-05.30.23:142][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.10.17-05.30.23:145][153]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2020.10.17-05.30.23:146][153]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.17-05.30.23:146][153]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.17-05.30.23:146][153]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.17-05.30.23:146][153]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.17-05.30.23:146][153]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.17-05.30.23:146][153]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.17-05.30.23:146][153]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.17-05.30.23:146][153]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.17-05.30.23:146][153]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.17-05.30.23:146][153]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.17-05.30.23:150][153]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.17-05.30.23:150][153]LogAudioMixer: Display: 1: FrontRight
+[2020.10.17-05.30.23:171][153]LogAudioMixer: Display: Using Audio Device Headphones (Xbox Controller)
+[2020.10.17-05.30.23:171][153]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.17-05.30.23:171][153]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.17-05.30.23:171][153]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.17-05.30.23:172][153]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.17-05.30.23:172][153]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.10.17-05.30.23:172][153]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2020.10.17-05.30.23:202][153]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.10.17-05.30.23:202][153]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.10.17-05.30.23:202][153]LogInit: FAudioDevice initialized.
+[2020.10.17-05.30.23:202][153]LogAudio: Display: Audio Device (ID: 4) registered with world 'test'.
+[2020.10.17-05.30.23:212][153]LogLoad: Game class is 'FPS_TDM_GM_C'
+[2020.10.17-05.30.23:215][153]LogWorld: Bringing World /Water/Maps/UEDPIE_0_test.test up for play (max tick rate 0) at 2020.10.17-16.30.23
+[2020.10.17-05.30.23:216][153]LogWorld: Bringing up level for play took: 0.003770
+[2020.10.17-05.30.23:217][153]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.10.17-05.30.23:222][153]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2020.10.17-05.30.23:222][153]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2020.10.17-05.30.23:222][153]LogScript: Warning: Script Msg: Turn Based Matches not supported by Online Subsystem
+[2020.10.17-05.30.23:222][153]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.17-05.30.23:223][153]LogScript: Warning: Script Msg: Turn Based Matches not supported by Online Subsystem
+[2020.10.17-05.30.23:224][153]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.17-05.30.23:224][153]PIE: Server logged in
+[2020.10.17-05.30.23:225][153]PIE: Play in editor total start time 0.149 seconds.
+[2020.10.17-05.30.28:097][253]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFPS_Game_Instance_4
+	BaseCharacterPC_C /Water/Maps/UEDPIE_0_test.test:PersistentLevel.BaseCharacterPC_C_0
+	Function /Game/FPS/Blueprints/PlayerController/BaseCharacterPC.BaseCharacterPC_C:ExecuteUbergraph_BaseCharacterPC:113A
+[2020.10.17-05.30.28:098][253]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFPS_Game_Instance_4". Blueprint:  BaseCharacterPC Function:  Execute Ubergraph Base Character PC Graph:  IsSettingsMenuOpen Node:  Get
+[2020.10.17-05.30.28:098][253]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFPS_Game_Instance_4
+	BaseCharacterPC_C /Water/Maps/UEDPIE_0_test.test:PersistentLevel.BaseCharacterPC_C_0
+	Function /Game/FPS/Blueprints/PlayerController/BaseCharacterPC.BaseCharacterPC_C:ExecuteUbergraph_BaseCharacterPC:127E
+[2020.10.17-05.30.28:098][253]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFPS_Game_Instance_4". Blueprint:  BaseCharacterPC Function:  Execute Ubergraph Base Character PC Graph:  IsSettingsMenuOpen Node:  Get
+[2020.10.17-05.30.28:098][253]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2020.10.17-05.30.28:098][253]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2020.10.17-05.30.28:126][254]LogGameMode: GameMode returned ReadyToStartMatch
+[2020.10.17-05.30.28:126][254]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.17-05.30.28:126][254]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.17-05.30.33:399][348]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 499
+[2020.10.17-05.30.34:907][370]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2020.10.17-05.30.34:908][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.17-05.30.34:908][370]LogWorld: BeginTearingDown for /Water/Maps/UEDPIE_0_test
+[2020.10.17-05.30.34:909][370]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.30.34:911][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.17-05.30.34:933][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.17-05.30.34:945][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.17-05.30.34:979][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.17-05.30.34:980][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.10.17-05.30.34:981][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.10.17-05.30.35:021][370]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.10.17-05.30.35:169][371]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.10.17-05.30.41:101][467]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.17-05.30.42:681][467]LogSlate: Window 'Message Log' being destroyed
+[2020.10.17-05.30.42:685][467]LogSlate: Window 'Message Log' being destroyed
+[2020.10.17-05.30.43:959][492]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.17-05.30.43:976][492]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.17-05.30.43:976][492]PIE: New page: PIE session: test (18 Oct 2020, 03:30:43)
+[2020.10.17-05.30.43:976][492]LogPlayLevel: Creating play world package: /Water/Maps/UEDPIE_0_test
+[2020.10.17-05.30.44:003][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026970s)
+[2020.10.17-05.30.49:092][492]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 489
+[2020.10.17-05.30.49:092][492]LogAIModule: Creating AISystem for world test
+[2020.10.17-05.30.49:093][492]LogPlayLevel: PIE: World Init took: (5.089657s)
+[2020.10.17-05.30.49:093][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Water/Maps/test.test to /Water/Maps/UEDPIE_0_test.test (5.116848s)
+[2020.10.17-05.30.49:138][492]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.10.17-05.30.49:140][492]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2020.10.17-05.30.49:140][492]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.17-05.30.49:140][492]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.17-05.30.49:140][492]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.17-05.30.49:140][492]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.17-05.30.49:140][492]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.17-05.30.49:140][492]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.17-05.30.49:140][492]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.17-05.30.49:140][492]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.17-05.30.49:141][492]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.17-05.30.49:141][492]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.17-05.30.49:144][492]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.17-05.30.49:144][492]LogAudioMixer: Display: 1: FrontRight
+[2020.10.17-05.30.49:163][492]LogAudioMixer: Display: Using Audio Device Headphones (Xbox Controller)
+[2020.10.17-05.30.49:164][492]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.17-05.30.49:164][492]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.17-05.30.49:164][492]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.17-05.30.49:164][492]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.17-05.30.49:164][492]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.10.17-05.30.49:164][492]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2020.10.17-05.30.49:193][492]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.10.17-05.30.49:194][492]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.10.17-05.30.49:194][492]LogInit: FAudioDevice initialized.
+[2020.10.17-05.30.49:194][492]LogAudio: Display: Audio Device (ID: 5) registered with world 'test'.
+[2020.10.17-05.30.49:209][492]LogLoad: Game class is 'BP_FPS_GameMode_C'
+[2020.10.17-05.30.49:212][492]LogWorld: Bringing World /Water/Maps/UEDPIE_0_test.test up for play (max tick rate 0) at 2020.10.17-16.30.49
+[2020.10.17-05.30.49:213][492]LogWorld: Bringing up level for play took: 0.003474
+[2020.10.17-05.30.49:213][492]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.10.17-05.30.49:284][492]PIE: Server logged in
+[2020.10.17-05.30.49:284][492]PIE: Play in editor total start time 5.31 seconds.
+[2020.10.17-05.30.55:260][617]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.30.55:310][618]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.30.55:539][621]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.30.55:699][624]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.30.55:889][628]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.30.56:057][631]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.30.56:131][632]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.30.56:264][634]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.30.56:328][635]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.30.56:447][637]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.30.56:543][639]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.30.59:281][698]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Reload
+[2020.10.17-05.31.09:243][837]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 479
+[2020.10.17-05.31.12:229][896]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.31.12:416][900]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.31.12:507][902]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.31.12:608][904]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.31.12:775][907]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.31.12:857][909]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.31.13:008][912]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.31.13:171][915]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.31.13:330][918]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.31.13:390][919]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.31.13:538][921]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.31.13:594][922]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.31.13:712][924]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.31.13:842][926]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.31.14:001][929]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.31.14:173][932]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.31.14:307][934]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.10.17-05.31.27:258][150]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2020.10.17-05.31.28:679][168]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 469
+[2020.10.17-05.31.40:195][401]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 459
+[2020.10.17-05.31.44:189][492]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2020.10.17-05.31.57:660][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.17-05.31.57:660][737]LogWorld: BeginTearingDown for /Water/Maps/UEDPIE_0_test
+[2020.10.17-05.31.57:660][737]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.31.57:661][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.17-05.31.57:699][737]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.17-05.31.57:708][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.17-05.32.00:258][737]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 449
+[2020.10.17-05.32.00:258][737]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.10.17-05.32.00:258][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.10.17-05.32.00:260][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.10.17-05.32.00:289][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.17-05.32.00:298][737]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.10.17-05.32.00:342][738]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.10.17-05.32.11:927][957]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FPS_Assault_Pack/Blueprints/RU74/BP_RU74_Character.BP_RU74_Character
+[2020.10.17-05.32.16:277][957]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 439
+[2020.10.17-05.32.35:414][497]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 429
+[2020.10.17-05.32.43:825][663]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 419
+[2020.10.17-05.32.52:361][807]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2020.10.17-05.33.00:288][877]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 409
+[2020.10.17-05.33.17:277][133]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 399
+[2020.10.17-05.33.19:341][171]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 389
+[2020.10.17-05.33.39:427][435]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 379
+[2020.10.17-05.33.45:789][514]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 369
+[2020.10.17-05.34.01:628][744]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 359
+[2020.10.17-05.34.06:963][841]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 349
+[2020.10.17-05.34.11:813][934]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 339
+[2020.10.17-05.34.16:637][ 36]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 329
+[2020.10.17-05.34.25:663][193]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 319
+[2020.10.17-05.34.26:232][199]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 309
+[2020.10.17-05.34.33:880][352]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 299
+[2020.10.17-05.34.37:924][445]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 289
+[2020.10.17-05.34.40:529][481]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 279
+[2020.10.17-05.34.51:331][635]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 269
+[2020.10.17-05.34.51:976][640]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 259
+[2020.10.17-05.34.53:332][641]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin_Arms...
+[2020.10.17-05.34.53:546][641]LogSkeletalMesh: Built Skeletal Mesh [0.23s] /Game/FPS/Characters/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2020.10.17-05.34.55:456][652]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 249
+[2020.10.17-05.35.00:246][705]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 239
+[2020.10.17-05.35.03:027][737]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.17-05.35.04:074][750]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 229
+[2020.10.17-05.35.09:500][812]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 219
+[2020.10.17-05.35.14:873][876]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 209
+[2020.10.17-05.35.18:700][956]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 199
+[2020.10.17-05.35.19:784][981]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 189
+[2020.10.17-05.35.27:669][142]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 179
+[2020.10.17-05.35.29:651][186]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 169
+[2020.10.17-05.35.32:188][219]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 159
+[2020.10.17-05.35.36:934][271]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 149
+[2020.10.17-05.35.39:796][302]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 139
+[2020.10.17-05.35.49:102][479]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 129
+[2020.10.17-05.35.51:958][525]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 119
+[2020.10.17-05.35.56:576][628]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 109
+[2020.10.17-05.35.59:769][699]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 99
+[2020.10.17-05.36.01:117][724]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.17-05.36.03:931][724]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 89
+[2020.10.17-05.36.04:371][730]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 79
+[2020.10.17-05.36.09:845][828]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 69
+[2020.10.17-05.36.12:316][876]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.17-05.36.12:473][877]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 59
+[2020.10.17-05.36.13:408][890]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 49
+[2020.10.17-05.36.20:306][958]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 39
+[2020.10.17-05.36.22:840][975]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/FPS_Assault_Pack/Animations/RU74/BP_RU74_AnimBP.BP_RU74_AnimBP
+[2020.10.17-05.36.22:903][975]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.10.17-05.36.23:674][975]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.10.17-05.36.24:385][975]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2020.10.17-05.36.24:704][975]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.17-05.36.24:830][975]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2020.10.17-05.36.28:369][975]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.10.17-05.36.28:369][975]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.10.17-05.36.30:144][985]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.10.17-05.36.31:746][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.10.17-05.36.32:772][ 65]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.10.17-05.36.35:667][179]BlueprintLog: New page: Compile BP_RU74_AnimBP
+[2020.10.17-05.36.35:867][179]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2020.10.17-05.37.25:128][845]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2020.10.17-05.41.13:668][575]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2020.10.17-05.41.14:134][575]LogSavePackage: Moving '../../../../../../Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/test_Auto15F93DB8A4BD68B8E05842281886E2095.tmp' to '../../../../../../Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Autosaves/Water/Maps/test_Auto1.umap'
+[2020.10.17-05.41.14:222][575]LogFileHelpers: Editor autosave (incl. external actors) for '/Water/Maps/test' took 0.651
+[2020.10.17-05.41.14:222][575]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.651
+[2020.10.17-05.41.14:306][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS_Assault_Pack/Blueprints/RU74/BP_RU74_Character] ([1] browsable assets)...
+[2020.10.17-05.41.14:435][575]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FPS_Assault_Pack/Blueprints/RU74/BP_RU74_Character.BP_RU74_Character]
+[2020.10.17-05.41.14:435][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS_Assault_Pack/Blueprints/RU74/BP_RU74_Character]
+[2020.10.17-05.41.14:864][575]LogSavePackage: Moving '../../../../../../Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/BP_RU74_Character_Auto1527165C84C81439488238BB4A6E5590C.tmp' to '../../../../../../Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Autosaves/Game/FPS_Assault_Pack/Blueprints/RU74/BP_RU74_Character_Auto1.uasset'
+[2020.10.17-05.41.14:892][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS_Assault_Pack/Animations/RU74/BP_RU74_AnimBP] ([1] browsable assets)...
+[2020.10.17-05.41.14:949][575]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/FPS_Assault_Pack/Animations/RU74/BP_RU74_AnimBP.BP_RU74_AnimBP]
+[2020.10.17-05.41.14:979][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS_Assault_Pack/Animations/RU74/BP_RU74_AnimBP]
+[2020.10.17-05.41.15:038][575]LogSavePackage: Moving '../../../../../../Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/BP_RU74_AnimBP_Auto166AC60CD4F48B97A5F8F2AA20F160936.tmp' to '../../../../../../Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/Autosaves/Game/FPS_Assault_Pack/Animations/RU74/BP_RU74_AnimBP_Auto1.uasset'
+[2020.10.17-05.41.15:039][575]LogFileHelpers: Auto-saving content packages took 0.793
+[2020.10.17-05.41.28:540][695]LogSlate: Window 'Open Project' being destroyed
+[2020.10.17-05.41.48:100][ 28]LogGameProjectGeneration: Verbose: 'D:/Games/UE4/UE_4.26/Templates/TP_BlankBP/Media/TP_BlankBP.png': Skipping as it is in an ignored folder 'Media'
+[2020.10.17-05.41.48:100][ 28]LogGameProjectGeneration: Verbose: 'D:/Games/UE4/UE_4.26/Templates/TP_BlankBP/Media/TP_BlankBP_Preview.png': Skipping as it is in an ignored folder 'Media'
+[2020.10.17-05.41.48:380][ 28]LogSlate: Window 'New Project' being destroyed
+[2020.10.17-05.41.48:456][ 29]Cmd: CLOSE_SLATE_MAINFRAME
+[2020.10.17-05.41.48:568][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2020.10.17-05.41.50:547][ 29]LogSlate: Window 'Save Content' being destroyed
+[2020.10.17-05.41.50:637][ 29]LogSavePackage: Moving '../../../../../../Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/BP_RU74_AnimBPBCF2B8364D0A3FFA54D290B8072AA5BA.tmp' to '../../../../../../Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Content/FPS_Assault_Pack/Animations/RU74/BP_RU74_AnimBP.uasset'
+[2020.10.17-05.41.50:868][ 29]LogSavePackage: Moving '../../../../../../Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/BP_RU74_CharacterF222F86941D0507FD89DAA88547B6F13.tmp' to '../../../../../../Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Content/FPS_Assault_Pack/Blueprints/RU74/BP_RU74_Character.uasset'
+[2020.10.17-05.41.50:896][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Water/Maps/test" FILE="../../Plugins/Experimental/Water/Content/Maps/test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.17-05.41.51:004][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.10.17-05.41.51:127][ 29]LogSavePackage: Moving '../../../../../../Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Saved/testE6ECE398443605A208FFF0AF99E5BCB2.tmp' to '../../Plugins/Experimental/Water/Content/Maps/test.umap'
+[2020.10.17-05.41.51:168][ 29]LogFileHelpers: Saving map 'test' took 0.272
+[2020.10.17-05.41.51:264][ 29]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.41.51:264][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.17-05.41.52:068][ 29]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.41.52:068][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.17-05.41.52:458][ 29]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.41.52:458][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.17-05.41.52:494][ 29]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.41.52:494][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.17-05.41.52:739][ 29]LogSlate: Window 'FPS_Template - Unreal Editor' being destroyed
+[2020.10.17-05.41.52:741][ 29]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.17-05.41.53:777][ 29]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.17-05.41.53:777][ 29]LogContentValidation: Display: Validating AnimBlueprint /Game/FPS_Assault_Pack/Animations/RU74/BP_RU74_AnimBP.BP_RU74_AnimBP
+[2020.10.17-05.41.53:777][ 29]LogContentValidation: Display: Validating Blueprint /Game/FPS_Assault_Pack/Blueprints/RU74/BP_RU74_Character.BP_RU74_Character
+[2020.10.17-05.41.53:777][ 29]LogContentValidation: Display: Validating World /Water/Maps/test.test
+[2020.10.17-05.41.53:780][ 30]Cmd: QUIT_EDITOR
+[2020.10.17-05.41.53:780][ 30]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.10.17-05.41.54:240][ 30]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.10.17-05.41.58:022][ 30]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2020.10.17-05.41.58:023][ 30]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2020.10.17-05.41.58:023][ 30]LogAudio: Display: Audio Device unregistered from world 'test'.
+[2020.10.17-05.41.58:054][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.10.17-05.41.58:149][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.10.17-05.42.01:240][ 30]LogAudio: Display: Audio Device Manager Shutdown
+[2020.10.17-05.42.01:685][ 30]LogExit: Preparing to exit.
+[2020.10.17-05.42.04:128][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903239100] Windows
+[2020.10.17-05.42.04:131][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903239200] Default__DeviceProfile
+[2020.10.17-05.42.04:133][ 30]LogDeviceProfile: Device profile begin destroy: [000002B9031B1D00] WindowsNoEditor
+[2020.10.17-05.42.04:133][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903238300] WindowsServer
+[2020.10.17-05.42.04:133][ 30]LogDeviceProfile: Device profile begin destroy: [000002B9031B0A00] WindowsClient
+[2020.10.17-05.42.04:133][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903239900] IOS
+[2020.10.17-05.42.04:133][ 30]LogDeviceProfile: Device profile begin destroy: [000002B9031B3100] iPadAir
+[2020.10.17-05.42.04:133][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903238500] iPadAir2
+[2020.10.17-05.42.04:133][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903173600] IPadPro
+[2020.10.17-05.42.04:133][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903173700] iPadAir3
+[2020.10.17-05.42.04:133][ 30]LogDeviceProfile: Device profile begin destroy: [000002B9031B0400] iPadMini2
+[2020.10.17-05.42.04:133][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903171400] iPadMini4
+[2020.10.17-05.42.04:133][ 30]LogDeviceProfile: Device profile begin destroy: [000002B9031B2000] iPadMini5
+[2020.10.17-05.42.04:133][ 30]LogDeviceProfile: Device profile begin destroy: [000002B90319B100] iPhone6
+[2020.10.17-05.42.04:133][ 30]LogDeviceProfile: Device profile begin destroy: [000002B90319B200] iPodTouch6
+[2020.10.17-05.42.04:133][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903173500] iPhone7
+[2020.10.17-05.42.04:133][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903173400] iPodTouch7
+[2020.10.17-05.42.04:133][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903199500] iPhone5S
+[2020.10.17-05.42.04:133][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903171600] iPhone6Plus
+[2020.10.17-05.42.04:133][ 30]LogDeviceProfile: Device profile begin destroy: [000002B90319AA00] iPhone6S
+[2020.10.17-05.42.04:133][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903171000] iPhone6SPlus
+[2020.10.17-05.42.04:133][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903199900] iPhone7Plus
+[2020.10.17-05.42.04:133][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903170200] iPhoneSE
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B90319A600] iPhone8
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903170F00] iPhone8Plus
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903199C00] iPhoneX
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903170400] iPhoneXS
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B90319A300] iPhoneXSMax
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903170C00] iPhoneXR
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903199F00] iPhone11
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903170800] iPhone11Pro
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B90319A000] iPhone11ProMax
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903170900] iPhoneSE2
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B90319A500] iPadPro105
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903170D00] iPadPro129
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903198200] iPadPro97
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903171500] iPadPro2_129
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B90319B700] iPad5
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903173000] iPad6
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903199600] iPad7
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903172000] iPadPro11
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903199300] iPadPro2_11
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903173100] iPadPro3_129
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B90319B300] iPadPro4_129
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903171E00] AppleTV
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903199400] AppleTV4K
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903171300] TVOS
+[2020.10.17-05.42.04:134][ 30]LogDeviceProfile: Device profile begin destroy: [000002B90319A400] Mac
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903172E00] MacClient
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903198C00] MacNoEditor
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903171C00] MacServer
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B90319B600] Linux
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903171800] LinuxNoEditor
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903199D00] LinuxAArch64NoEditor
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903172C00] LinuxClient
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903198400] LinuxAArch64Client
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903172B00] LinuxServer
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903239B00] LinuxAArch64Server
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903171700] Android
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903238600] Android_Low
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903170500] Android_Mid
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903239D00] Android_High
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903172100] Android_Default
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903238A00] Android_Adreno4xx
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903172300] Android_Adreno5xx_Low
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903238200] Android_Adreno5xx
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903171D00] Android_Adreno6xx
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903238E00] Android_Adreno6xx_Vulkan
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903173800] Android_Mali_T6xx
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903239000] Android_Mali_T7xx
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903170E00] Android_Mali_T8xx
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903239300] Android_Mali_G71
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903170300] Android_Mali_G72
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903239700] Android_Mali_G72_Vulkan
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903172500] Android_Mali_G76
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903199000] Android_Mali_G76_Vulkan
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903172800] Android_Mali_G77
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903198900] Android_Mali_G77_Vulkan
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903198300] Android_Vulkan_SM5
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B9031B0C00] Android_PowerVR_G6xxx
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903198800] Android_PowerVR_GT7xxx
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B9031B2200] Android_PowerVR_GE8xxx
+[2020.10.17-05.42.04:135][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903198D00] Android_PowerVR_GM9xxx
+[2020.10.17-05.42.04:136][ 30]LogDeviceProfile: Device profile begin destroy: [000002B9031B1200] Android_PowerVR_GM9xxx_Vulkan
+[2020.10.17-05.42.04:136][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903198700] Android_TegraK1
+[2020.10.17-05.42.04:136][ 30]LogDeviceProfile: Device profile begin destroy: [000002B9031B0900] Android_Unknown_Vulkan
+[2020.10.17-05.42.04:136][ 30]LogDeviceProfile: Device profile begin destroy: [000002B90319AD00] Lumin
+[2020.10.17-05.42.04:144][ 30]LogDeviceProfile: Device profile begin destroy: [000002B9031B0D00] Lumin_Desktop
+[2020.10.17-05.42.04:144][ 30]LogDeviceProfile: Device profile begin destroy: [000002B903198600] HoloLens
+[2020.10.17-05.42.11:031][ 30]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.42.11:037][ 30]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.42.11:043][ 30]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.42.11:050][ 30]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.42.11:056][ 30]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.42.11:066][ 30]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.42.11:075][ 30]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.42.11:084][ 30]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.42.11:097][ 30]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.10.17-05.42.14:200][ 30]LogDirectoryWatcher: A directory notification failed for 'D:/Unreal Projects/FPSMultidc66e4e0d7c5V2/data 4.25/UNREAL-GAME/FPS GAME 4.26 - 2 4.26/Content/', and we were unable to create a new request.
+[2020.10.17-05.42.15:533][ 30]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.10.17-05.42.15:622][ 30]LogWindows: Windows GetLastError: The operation completed successfully. (0)
